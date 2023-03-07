@@ -5,9 +5,9 @@
 
  <h3 align="center">⭐Me⭐</h3>
  
-<a href="https://velog.io/@imxorud/series"><img src="https://img.shields.io/badge/Tech%20Blog-1BC895?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imxorud"/></a>
-<a href="mailto:imxorud@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imxorud@gmail.com"/></a>
-<a href="https://github.com/taekyungna"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaekyungna&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+<a href="https://velog.io/@imxorud/series"><img src="https://img.shields.io/badge/Tech%20Blog-1BC895?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imxorud " style="max-width: 100%;height: 25px;"/></a>
+<a href="mailto:imxorud@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imxorud@gmail.com"  style="max-width: 100%;height: 25px;"/></a>
+<a href="https://github.com/taekyungna"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaekyungna&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"  style="max-width: 100%;height: 25px;"/></a> 
 <br><br>
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
