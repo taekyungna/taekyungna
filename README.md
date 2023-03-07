@@ -7,7 +7,7 @@
  
 <a href="https://velog.io/@imxorud/series"><img src="https://img.shields.io/badge/Tech%20Blog-1BC895?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imxorud"/></a>
 <a href="mailto:imxorud@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imxorud@gmail.com"/></a>
-
+<a href="https://github.com/taekyungna"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaekyungna&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 <br><br>
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
