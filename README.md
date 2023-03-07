@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=300&section=header&text=I'm%20Taekyung&fontSize=90"/>
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=300&section=header&text=I'm%20Taekyung&fontSize=90&fontColor=3B3838&)
+ 
 </p>
 
 🔗https://velog.io/@imxorud/series
