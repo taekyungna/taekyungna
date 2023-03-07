@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=300&section=header&text=I'm%20Taekyung&fontSize=90&fontColor=3B3838&)
  
 
-
-🔗https://velog.io/@imxorud/series
+ 
+  <a href="https://velog.io/@imxorud/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imxorud"/></a> &nbsp;
 
 
 
