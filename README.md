@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=300&section=header&text=I'm%20Taekyung&fontSize=90&fontColor=3B3838&)
  
-</p>
+
 
 🔗https://velog.io/@imxorud/series
 
@@ -10,7 +10,7 @@
 
 <h3 align="center">🛠️Tech Stack</h3>
 
-<div align="center">
+
  
  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  
