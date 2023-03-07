@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+header{
+ background-image:url('git-bg.png')
+
+}
+</style>
+
+<header>
+I'm taekyung
+</header>
 
 <h3>🛠️Tech Stack</h3>
 
@@ -24,7 +34,7 @@ Here are some ideas to get you started:
   
  <br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungna&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact)](https://github.com/taekyungna/github-readme-stats)
+[![Taekyung's github stats](https://github-readme-stats.vercel.app/api?username=taekyungna&count_private=true&custom_title=Taekyung's&nbsp;github&nbsp;🎀&border_color=f7cac9&title_color=F2A6A4&text_color=777)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=FBE2E1&border_color=FBE2E1&title_color=777&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
