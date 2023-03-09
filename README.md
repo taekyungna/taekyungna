@@ -23,3 +23,4 @@
 
 [![Taekyung's github stats](https://github-readme-stats.vercel.app/api?username=taekyungna&count_private=true&custom_title=Taekyung's&nbsp;github&nbsp;🎀&border_color=f7cac9&title_color=F2A6A4&text_color=777)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=FBE2E1&border_color=FBE2E1&title_color=777&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+.
