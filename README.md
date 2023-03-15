@@ -1,9 +1,15 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=300&section=header&text=I'm%20Taekyung&fontSize=90&fontColor=3B3838&)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=130&section=header&text=%20&fontSize=50&fontColor=3B3838&)
+ </div>
+
  
 
- <h3 align="center">⭐About me⭐</h3>
+ 
+
+ 
+ <div align="center">
+ <h3>⭐About me⭐</h3>
  
 <a href="https://velog.io/@imxorud/series"><img src="https://img.shields.io/badge/Tech%20Blog-1BC895?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imxorud " style="max-width: 100%;height: 25px;"/></a>
 <a href="mailto:imxorud@gmail.com"><img src="https://img.shields.io/badge/imxorud@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imxorud@gmail.com"  style="max-width: 100%;height: 25px;"/></a>
@@ -18,6 +24,9 @@
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
+ 
+ </div>
+ 
 <br><br>
  
  
@@ -25,6 +34,6 @@
 <p align="center">
 <a href="https://github.com/taekyungna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taekyungna&custom_title=Taekyung's&nbsp;github&nbsp;🎀&show_icons=true&border_color=f7cac9&title_color=F2A6A4&text_color=777&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&bg_color=FBE2E1&border_color=FBE2E1&title_color=777&text_color=777"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&bg_color=FCE9E7&border_color=FCE9E7&title_color=777&text_color=777"/>
 </a>
 </p>
