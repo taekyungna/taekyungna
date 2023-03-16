@@ -51,13 +51,6 @@
     .msg-5 {
       animation: wait 6.5s, msg-5 0.2s 6.5s;
     }
-    .typing-6 {
-      opacity: 0;
-      animation: wait 7.5s, fade-in-out 0.5s 7.5s;
-    }
-    .msg-6 {
-      animation: wait 8s, msg-6 0.2s 8s;
-    }
     @keyframes wait {
       0%,
       100% {
@@ -97,7 +90,7 @@
     @keyframes msg-3 {
       0% {
         opacity: 0;
-        transform: translate(5px, 101x);
+        transform: translate(5px, 101px);
       }
       100% {
         opacity: 1;
@@ -111,7 +104,7 @@
       }
       100% {
         opacity: 1;
-        transform: translate(5px, 169x);
+        transform: translate(5px, 169px);
       }
     }
     @keyframes msg-5 {
@@ -122,16 +115,6 @@
       100% {
         opacity: 1;
         transform: translate(5px, 242px);
-      }
-    }
-    @keyframes msg-6 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 293px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 288px);
       }
     }
     @media (prefers-color-scheme: dark) {
