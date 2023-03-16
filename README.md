@@ -1,21 +1,22 @@
 <div align="center">
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=FADCDA&height=130&section=header&text=%20&fontSize=50&fontColor=3B3838&)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=F9DBED&height=150&section=header&text=%20&fontSize=50&fontColor=3B3838&)
  </div>
 
+<a href="https://github.com/taekyungna"> 
  
+![https://github.com/taekyungna/main/blob/main/chat.svg](https://github.com/taekyungna/main/blob/main/chat.svg)
+</a>
 
- 
 
- 
- <div align="center">
- <h3>⭐About me⭐</h3>
+<div align="left">
+<h3>About me🎵</h3>
  
 <a href="https://velog.io/@imxorud/series"><img src="https://img.shields.io/badge/Tech%20Blog-1BC895?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imxorud " style="max-width: 100%;height: 25px;"/></a>
 <a href="mailto:imxorud@gmail.com"><img src="https://img.shields.io/badge/imxorud@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imxorud@gmail.com"  style="max-width: 100%;height: 25px;"/></a>
 <br><br>
 
-<h3 align="center">🛠️Tech Stack🛠️</h3>
+ <h3>Tech Stack🛠️</h3>
 
 
  
@@ -31,9 +32,9 @@
  
  
  
-<p align="center">
+<p align="left">
 <a href="https://github.com/taekyungna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taekyungna&custom_title=Taekyung's&nbsp;github&nbsp;🎀&show_icons=true&border_color=f7cac9&title_color=F2A6A4&text_color=777&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&bg_color=FCE9E7&border_color=FCE9E7&title_color=777&text_color=777"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taekyungna&custom_title=Taekyung's&nbsp;github&nbsp;🎀&show_icons=true&border_color=F9DBED&title_color=F5B1D3&text_color=777&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&bg_color=FFF&border_color=FCE9E7&title_color=F5B1D3&text_color=777&hide_border=true"/>
 </a>
 </p>
