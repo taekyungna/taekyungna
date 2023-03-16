@@ -4,7 +4,7 @@
 <div align="left" width="100%">
 <a href="https://github.com/taekyungna"> 
  
-![https://github.com/taekyungna/main/blob/main/chat.svg](https://github.com/taekyungna/main/blob/main/chat.svg)
+![https://github.com/taekyungna/taekyungna/blob/main/chat.svg](https://github.com/taekyungna/taekyungna/blob/main/chat.svg)
 </a>
 
 <h3>About me🎵</h3>
