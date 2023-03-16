@@ -1,12 +1,11 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=F9DBED&height=150&section=header&text=%20&fontSize=50&fontColor=3B3838&)
+![image](https://user-images.githubusercontent.com/121482720/225556016-0b9c038b-5757-4a4b-88c9-11a1ac2d8082.png)
  
+ <br>
 <div align="left" width="100%">
 <a href="https://github.com/taekyungna"> 
  
 ![https://github.com/taekyungna/main/blob/main/chat.svg](https://github.com/taekyungna/main/blob/main/chat.svg)
 </a>
-
-
 
 <h3>About me🎵</h3>
  
