@@ -100,21 +100,21 @@
     @keyframes msg-4 {
       0% {
         opacity: 0;
-        transform: translate(5px, 174px);
+        transform: translate(5px, 149px);
       }
       100% {
         opacity: 1;
-        transform: translate(5px, 169px);
+        transform: translate(5px, 144px);
       }
     }
     @keyframes msg-5 {
       0% {
         opacity: 0;
-        transform: translate(5px, 247px);
+        transform: translate(5px, 222px);
       }
       100% {
         opacity: 1;
-        transform: translate(5px, 242px);
+        transform: translate(5px, 217px);
       }
     }
     @media (prefers-color-scheme: dark) {
@@ -258,13 +258,12 @@
 
   <!-- Work ... -->
   <g transform="translate(5, 96)" class="msg-3">
-    <rect width="300" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">계속해서 공부하며</text>
-    <text x="15" y="50">기술 영역을 넓혀가고 있습니다👩‍💻</text>
+    <rect width="447" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">계속해서 공부하며 기술 영역을 넓혀가고 있습니다👩‍💻</text>
   </g>
 
   <!-- typing 4 -->
-  <g transform="translate(5, 169)" class="typing-4">
+  <g transform="translate(5, 144)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -281,14 +280,14 @@
 
   </g>
 
-  <g transform="translate(5, 169)" class="msg-4">
+  <g transform="translate(5, 144)" class="msg-4">
     <rect width="415" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">상상을 현실로 구현하고, 사용자 경험에 중시하는</text>
     <text x="15" y="50">편리한 서비스를 제공하고 싶습니다</text>
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(5, 242)" class="typing-5">
+  <g transform="translate(5, 217)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -306,7 +305,7 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(5, 242)" class="msg-5">
+  <g transform="translate(5, 217)" class="msg-5">
     <rect width="355" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">앞으로 자주 보는 일이 있으면 좋겠습니다</text>
     <text x="15" y="50">좋은 하루 보내세요<tspan class="emoji">🍀</tspan></text>
