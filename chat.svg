@@ -258,9 +258,9 @@
 
   <!-- Work ... -->
   <g transform="translate(5, 96)" class="msg-3">
-    <rect width="343" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">JavaScript를 주로 사용하며</text>
-    <text x="15" y="50">React도 계속해서 공부하고 있습니다👩‍💻</text>
+    <rect width="300" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">계속해서 공부하며</text>
+    <text x="15" y="50">기술 영역을 넓혀가고 있습니다👩‍💻</text>
   </g>
 
   <!-- typing 4 -->
