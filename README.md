@@ -31,11 +31,10 @@
 
 <br><br>
 
-<a href="https://github.com/taekyungna">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taekyungna&custom_title=Taekyung's&nbsp;github&nbsp;🎀&show_icons=true&border_color=F9DBED&title_color=F5B1D3&text_color=777&include_all_commits=true&count_private=true&hide_border=true"/>
 
-  <img alt="Taekyung's github🎀" height="180em" src="https://github-readme-stats.vercel.app/api?username=taekyungna&custom_title=Taekyung's&nbsp;github&nbsp;🎀&count_private=true&title_color=F5B1D3&text_color=F5B1D3&hide_border=true"
-    /> <img alt="My Language" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&count_private=true&title_color=F5B1D3&text_color=F5B1D3&hide_border=true&icon=true"
-    />
- 
-</a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungna&layout=compact&bg_color=FFF&border_color=FCE9E7&title_color=F5B1D3&text_color=777&hide_border=true"/>
+
+
 </div>
